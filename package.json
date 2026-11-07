@@ -1,0 +1,11 @@
+{
+  "name": "fiqh-ts-salah-solar-angles",
+  "version": "1.0.0",
+  "description": "High-Precision Astronomical Prayer Times Calculator (حاسبة مواقيت الصلاة الفلكية بزوايا الشمس الدقيقة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
